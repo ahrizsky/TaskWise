@@ -1,4 +1,4 @@
-// ... (imports and package statement)
+package com.example.bottomsheet;// ... (imports and package statement)
 
 import android.app.ActivityOptions;
 import android.content.Intent;
